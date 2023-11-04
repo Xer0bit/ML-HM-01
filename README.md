@@ -13,7 +13,7 @@ pip install -r requirements.txt
 Make sure you have Python 3.x installed on your system.
 Usage
 
-    To run the application, execute the following command:
+To run the application, execute the following command:
 
 ```python main.py```
 
