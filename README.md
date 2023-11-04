@@ -8,13 +8,14 @@ Before using this application, ensure that you have the required Python librarie
 
 ```bash
 pip install -r requirements.txt
+```
 
 Make sure you have Python 3.x installed on your system.
 Usage
 
     To run the application, execute the following command:
 
-python main.py
+```python main.py```
 
 This will open a GUI window that allows you to insert an image and create an image.
 
